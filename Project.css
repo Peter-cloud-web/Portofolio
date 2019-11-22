@@ -2,7 +2,7 @@ header{
 	background-color: rgb(255,255,255);
 	color: black;
 	 border-bottom: black 3px solid;
-	 border-top: blue 3px solid;
+	 
 
 	
 }
@@ -17,6 +17,7 @@ h1{
 	font-weight: bolder;
 	padding: 30;
 	padding-bottom: 0;
+    text-align: center;
 
 
 }
