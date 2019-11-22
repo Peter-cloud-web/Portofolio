@@ -8,6 +8,10 @@ header{
 	
 }
 
+a:hover{
+	color: green;
+}
+
 h1{
 	color:black;
 	font-size: 18px;
@@ -39,9 +43,15 @@ h1{
  }
  #profile {
  	color: black;
- 	font-family: 'Lobster', cursive;
+
+
+    font-family: 'Lobster', cursive;
 
     font-family: 'Pacifico', cursive;
+
+    font-family: 'Righteous', cursive;
+
+
 
  }
  span{
@@ -54,6 +64,15 @@ h1{
  	padding: 20px;
  	padding-right: 20px;
  	background: black;
+
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Righteous', cursive;
+
+    font-family: 'Lobster', cursive;
+
+
  	
 
  }
@@ -64,11 +83,20 @@ h1{
  	background-repeat: no-repeat;
  	background-size: cover;
  	background-attachment: fixed;
- 	color: black;
+ 	color: rgb(214,224,208);
  	text-align: center;
  	width: 250;
  	height: 100;
  	padding: 120px;
+
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Righteous', cursive;
+
+    font-family: 'Lobster', cursive;
+
+
 
  }
  	
