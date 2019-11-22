@@ -15,8 +15,7 @@ h1{
 	color:black;
 	font-size: 18px;
 	font-weight: bolder;
-	padding: 30;
-	padding-bottom: 0;
+	padding: 30px;
     text-align: center;
 
 
@@ -39,8 +38,26 @@ h1{
  	font-weight: normal;
  	display: inline;
  	padding: 40px;
+ }
+
+ .Links a {
+    font-size: 23px;
+    text-decoration: none;
+    text-align: center;
+    color: rgb(19,149,142);
+    font-weight: bolder;
+    padding-left: 100px;
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Righteous', cursive;
 
  }
+ .Links a:hover{
+    color: green;
+}
+
  #profile {
  	color: black;
 
