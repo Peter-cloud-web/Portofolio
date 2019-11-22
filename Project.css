@@ -1,0 +1,105 @@
+header{
+	background-color: rgb(255,255,255);
+	color: black;
+	 border-bottom: black 3px solid;
+	 border-top: blue 3px solid;
+
+	
+}
+
+a:hover{
+	color: green;
+}
+
+h1{
+	color:black;
+	font-size: 18px;
+	font-weight: bolder;
+	padding: 30;
+	padding-bottom: 0;
+
+
+}
+ .container {
+ 	text-align: center;
+ 	color: black;
+ 	font-size: 20px;
+ 	font-weight: bolder;
+ 	text-decoration: none;
+ 	
+ 	
+ }
+ nav a{
+ 	text-decoration-style: underline;
+ 	text-decoration: none;
+ 	color: white;
+ 	text-align: center;
+ 	font-size: 15px;
+ 	font-weight: normal;
+ 	display: inline;
+ 	padding: 40px;
+
+ }
+ #profile {
+ 	color: black;
+
+
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Righteous', cursive;
+
+
+
+ }
+ span{
+ 	color: rgb(5,70,94);
+ }
+
+ li{
+ 	text-align: center;
+ 	text-decoration: none;
+ 	padding: 20px;
+ 	padding-right: 20px;
+ 	background: black;
+    border-bottom:  white 30px solid;
+
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Righteous', cursive;
+
+    font-family: 'Lobster', cursive;
+
+  footer{
+  	padding: 40px
+  }
+
+ .description{
+    font-weight: bolder;
+ 	font-size: 17px;
+ 	background:white;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+ 	background-attachment: fixed;
+ 	color: black;
+ 	text-align: center;
+ 	width: 250;
+ 	height: 100;
+ 	padding: 120px;
+
+
+    
+
+    font-family: 'Pacifico', cursive;
+
+    font-family: 'Righteous', cursive;
+
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Taviraj', serif;
+ }
+
+
+ 	
