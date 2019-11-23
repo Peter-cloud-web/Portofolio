@@ -24,19 +24,9 @@ h1{
     text-align: left;
     padding-left: 20px;
     padding-top: 0px;
-    
-    
-    
-
-   
-
-   
     font-family: 'Satisfy', cursive;
-
     font-family: 'Kaushan Script', cursive;
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Great Vibes', cursive
 
 
@@ -63,12 +53,8 @@ h1{
  }
  #profile {
  	color: black;
-
-
     font-family: 'Lobster', cursive;
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Righteous', cursive;
 
 
@@ -85,15 +71,11 @@ h1{
  	padding-right: 20px;
  	background: black;
     border-bottom:  white 30px solid;
-
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Righteous', cursive;
-
     font-family: 'Lobster', cursive;
 
-  footer{
+footer{
   	padding: 40px
   }
 
@@ -112,24 +94,30 @@ h1{
  	text-align: center;
  	width: 250;
  	height: 100;
- 	padding: 120px;
-
-
-    
-
+ 	padding: 120px;    
     font-family: 'Pacifico', cursive;
-
     font-family: 'Righteous', cursive;
-
     font-family: 'Lobster', cursive;
-
     font-family: 'Taviraj', serif;
  }
+
+ .description p{
+    font-size: 18px;
+    font-family: 'Satisfy', cursive;
+    font-family: 'Kaushan Script', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Great Vibes', cursive;
+    font-family: 'Playfair Display SC', serif;
+    font-family: 'Gupter', serif;
+
+ }
+
  em {
  	color: rgb(140,138,19);
  	font-size: 15px;
  	font-weight: bolder;
  }
+ 
  footer {
     text-align: center;
     padding: 20px;

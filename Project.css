@@ -1,7 +1,7 @@
 header{
 	background-color: rgb(255,255,255);
 	color: black;
-	 border-bottom: black 3px solid;
+	border-bottom: black 3px solid;
 	 
 
 	
@@ -19,19 +19,9 @@ h1{
     text-align: left;
     padding-left: 20px;
     padding-top: 0px;
-    
-    
-    
-
-   
-
-   
     font-family: 'Satisfy', cursive;
-
     font-family: 'Kaushan Script', cursive;
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Great Vibes', cursive
 
 }
@@ -63,9 +53,7 @@ h1{
     font-weight: bolder;
     padding-left: 200px;
     font-family: 'Lobster', cursive;
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Righteous', cursive;
 
  }
@@ -74,20 +62,11 @@ h1{
     font-weight: normal;
     font-size: 20px;
     color:black;
-
-
-    
-
     font-family: 'Satisfy', cursive;
-
     font-family: 'Kaushan Script', cursive;
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Great Vibes', cursive;
-
     font-family: 'Playfair Display SC', serif;
-
     font-family: 'Gupter', serif;
 
  }
@@ -97,17 +76,12 @@ h1{
 
  #profile {
  	color: black;
-
-
     font-family: 'Lobster', cursive;
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Righteous', cursive;
 
-
-
  }
+
  span{
  	color: rgb(5,70,94);
  }
@@ -119,12 +93,8 @@ h1{
  	padding-right: 20px;
  	background: black;
     border-bottom:  white 30px solid;
-
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Righteous', cursive;
-
     font-family: 'Lobster', cursive;
 
   footer{
@@ -143,16 +113,9 @@ h1{
  	width: 250;
  	height: 100;
  	padding: 120px;
-
-
-    
-
     font-family: 'Pacifico', cursive;
-
     font-family: 'Righteous', cursive;
-
     font-family: 'Lobster', cursive;
-
     font-family: 'Taviraj', serif;
  }
   footer {
