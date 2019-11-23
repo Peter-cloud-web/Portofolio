@@ -60,17 +60,20 @@ h1{
  	color: rgb(5,70,94);
  }
 
- li{
- 	text-align: center;
- 	text-decoration: none;
- 	padding: 20px;
- 	padding-right: 20px;
- 	background: black;
-    border-bottom:  white 30px solid;
+li{
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+    width: 300px;
+    margin: 10px;
+    margin-left: 400px;
+    padding-right: 10px;
+    background: black;
+    border-bottom:blue 2px solid;
     font-family: 'Pacifico', cursive;
     font-family: 'Righteous', cursive;
-    font-family: 'Lobster', cursive;
-
+    font-family: 'Lobster', cursive;    
+ }
   footer{
   	padding: 40px
   }
@@ -95,6 +98,7 @@ h1{
 
  .description p{
     font-size: 15px;
+    padding: 40px;
     font-weight: bolder;
     color: white;
     background-color: black;
