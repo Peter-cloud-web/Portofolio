@@ -23,7 +23,6 @@ h1{
     font-weight: bolder;
     text-align: left;
     padding-left: 20px;
-    padding-top: 0px;
     font-family: 'Satisfy', cursive;
     font-family: 'Kaushan Script', cursive;
     font-family: 'Pacifico', cursive;
@@ -47,7 +46,6 @@ h1{
  	text-align: center;
  	font-size: 15px;
  	font-weight: normal;
- 	display: inline;
  	padding: 40px;
 
  }
@@ -64,7 +62,7 @@ h1{
  li{
     text-align: center;
     text-decoration: none;
-    padding: 20px;
+    padding: 10px;
     width: 300px;
     margin: 10px;
     margin-left: 400px;
@@ -83,10 +81,7 @@ footer{
  .description{
     
  	color: black;
- 	text-align: center;
- 	width: 250;
- 	height: 100;
- 	padding: 120px;    
+ 	text-align: center;  
     font-family: 'Pacifico', cursive;
     font-family: 'Righteous', cursive;
     font-family: 'Lobster', cursive;

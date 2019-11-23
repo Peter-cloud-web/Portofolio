@@ -41,7 +41,6 @@ h1{
  	text-align: center;
  	font-size: 15px;
  	font-weight: normal;
- 	display: inline;
  	padding: 40px;
  }
 
@@ -81,6 +80,14 @@ h1{
     font-family: 'Righteous', cursive;
 
  }
+ section h2{
+    text-align: center;
+    padding: 20px;
+    font-family: 'Lobster', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Righteous', cursive;
+
+ }
 
  span{
  	color: rgb(5,70,94);
@@ -89,7 +96,7 @@ h1{
  li{
     text-align: center;
     text-decoration: none;
-    padding: 20px;
+    padding: 10px;
     width: 300px;
     margin: 10px;
     margin-left: 400px;
@@ -108,9 +115,6 @@ h1{
     font-weight: bolder;
  	font-size: 17px;
  	background:white;
- 	background-repeat: no-repeat;
- 	background-size: cover;
- 	background-attachment: fixed;
  	color: black;
  	text-align: center;
  	width: 250;
